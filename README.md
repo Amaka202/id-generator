@@ -1,3 +1,3 @@
 # id-generator
 
-A simple tool built for my friend so he could generate random Ids for his employees
+A simple tool built for generating random IDs. it can generate 1 billion random IDs without repeating any number combination.
